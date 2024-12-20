@@ -6,14 +6,12 @@ function Page() {
   return (
     <>
       <App />
-      Whatever you want
     </>
   );
 }
 
 root.render(
   <>
-    <h1>hello hello beautiful</h1>
     <Page />
   </>
 );

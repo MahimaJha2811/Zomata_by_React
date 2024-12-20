@@ -43,7 +43,10 @@ export default function Header() {
         </nav>
         <div id="main">
           <div id="logo">
-            <img src="./image/zomatoLogo.png" alt="Zomata Logo" />
+            <img
+              src="../src/components/image/zomatoLogo.png"
+              alt="Zomata Logo"
+            />
           </div>
           <div id="tagline">
             <h1>Discover the best food & drinks in Ahmedabad</h1>
